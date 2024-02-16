@@ -1,0 +1,14 @@
+
+
+.img-gato {
+    height: 300px;
+}
+
+
+
+
+.img-gato:hover {
+    border-radius: 30px;
+    height: 600px;
+    border: 5px solid orange;
+}
